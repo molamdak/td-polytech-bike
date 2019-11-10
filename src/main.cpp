@@ -3,9 +3,12 @@
 
 int main()
 {
-    Road road(100);
-    //road.show();
-    Bike bike;
-    bike.run(road);
-    return 0;
+ 
+	Roadroad(20);
+	Bikebike;
+	bike.run(road);
+
+	RoadlongRoad(40);
+	bike.run(longRoad);
+	return 0;
 }
